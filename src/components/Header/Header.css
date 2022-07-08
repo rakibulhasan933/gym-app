@@ -1,0 +1,15 @@
+.headers {
+    display: flex;
+    justify-content: space-between;
+}
+.logo-item {
+    width: 5erm;
+    height: 1.5rm;
+}
+.header-menu{
+    padding-top: 2rem;
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+    color: white;
+}
